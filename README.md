@@ -8,7 +8,7 @@ A simple and fun web-based dice game! Refresh the page and see which player wins
 
 ## 📸 Screenshot
 
-![Game of Dice Preview](./images/dice3.png)
+![Game of Dice Preview](./images/screenshot.png)
 
 ---
 
